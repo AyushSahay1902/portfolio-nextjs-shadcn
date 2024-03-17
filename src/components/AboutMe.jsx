@@ -4,7 +4,7 @@ const AboutMe = () => {
   return (
     <div className="bg-scroll w-full px-8 py-16 bg-gray-100 text-black gap-10 relative">
       <div
-        className="absolute inset-0 bg-white/50 backdrop-blur-md"
+        className="absolute inset-0 bg-white/&apos;50 backdrop-blur-md"
         style={{
           backgroundImage: 'url(/images/hero-bg.jpg)',
           backgroundSize: 'cover',
