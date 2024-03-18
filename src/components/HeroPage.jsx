@@ -11,7 +11,7 @@ const HeroPage = () => {
         <p className="text-lg">I&apos;m a full-stack developer.</p>
         <div className="flex space-x-4 mt-3">
           {/* //Discord */}
-          <a href="#">
+          <a href="https://discord.com/invite/QXxhv6z7">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@ const HeroPage = () => {
             </span>
           </a>
           {/* //Github */}
-          <a href="#">
+          <a href="https://github.com/AyushSahay1902">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@ const HeroPage = () => {
             </span>
           </a>
           {/* Instagram */}
-          <a href="#">
+          <a href="https://www.instagram.com/_ayushsahay_/">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -51,7 +51,7 @@ const HeroPage = () => {
             </span>
           </a>
           {/* Linkdin */}
-          <a href="#">
+          <a href="https://www.linkedin.com/in/ayush-sahay-4632591b7/">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -63,7 +63,7 @@ const HeroPage = () => {
             </span>
           </a>
           {/* X */}
-          <a href="#">
+          <a href="https://twitter.com/AyushSahay19">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
