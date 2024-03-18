@@ -7,8 +7,8 @@ const HeroPage = () => {
   return (
     <div className="relative flex items-center justify-center gap-8 py-20 px-10">
       <div className='flex items-start flex-col justify-between pr-10'>
-        <h1 className="text-4xl font-bold mb-2 tracking-tight">Hi, I'm Ayush Sahay</h1>
-        <p className="text-lg">I'm a full-stack developer.</p>
+        <h1 className="text-4xl font-bold mb-2 tracking-tight">Hi, I&apos;m Ayush Sahay</h1>
+        <p className="text-lg">I&apos;m a full-stack developer.</p>
         <div className="flex space-x-4 mt-3">
           {/* //Discord */}
           <a href="#">
