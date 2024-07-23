@@ -51,7 +51,7 @@ const HeroPage = () => {
             </span>
           </a>
           {/* Linkdin */}
-          <a href="https://www.linkedin.com/in/ayush-sahay-4632591b7/">
+          <a href="www.linkedin.com/in/ayushsahay-developer">
             <span className="[&>svg]:h-5 [&>svg]:w-5 [&>svg]:transition-transform [&>svg]:duration-300 [&>svg]:hover:scale-125">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
