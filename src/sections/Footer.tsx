@@ -1,4 +1,3 @@
-import { link } from "fs";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 const footerLinks = [
   {
