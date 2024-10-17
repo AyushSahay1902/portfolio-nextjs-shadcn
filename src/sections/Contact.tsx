@@ -17,9 +17,9 @@ export const ContactSection = () => {
                 Lets create something amazing together
               </h2>
               <p className="text-sm md:text-base mt-2">
-                I'm always open to new projects and opportunities. If you have a
-                project in mind that you think I'd be a good fit for, feel free
-                to reach out to me and we can discuss more.
+                I am always open to new projects and opportunities. If you have
+                a project in mind that you think I would be a good fit for, feel
+                free to reach out to me and we can discuss more.
               </p>
             </div>
             <div>
